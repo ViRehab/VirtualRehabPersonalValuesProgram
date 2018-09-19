@@ -1,0 +1,52 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.17",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "DatasmithCADImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "Substance",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "OctagonVoiceChat",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5d63e8c7fea642b88e9be0a2830b0d69"
+		},
+		{
+			"Name": "ImageResizUEr",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/670be04026664663875aadd4dea45b9d"
+		},
+		{
+			"Name": "GoogleAnalytics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1b3f6c0fc07648b18758f7b883358b3e"
+		},
+		{
+			"Name": "AnalyticsBlueprintLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "gameDNAinstaller",
+			"Enabled": false
+		},
+		{
+			"Name": "RealtimeDatabase",
+			"Enabled": false
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor"
+	]
+}
